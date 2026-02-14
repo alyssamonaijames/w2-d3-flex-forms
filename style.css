@@ -44,3 +44,18 @@ body {
     flex-direction: column;
     flex: 1 1 45%;
 }
+
+.full-width {
+    flex: 1 1 100%;
+}
+
+input {
+    padding: 8px;
+}
+
+button {
+    padding: 10px;
+    background: black;
+    color: white;
+    border: none;
+}
